@@ -13,6 +13,7 @@ Here I am going to do an initial analysis of the teeth data.
 
 First read in the data:
 ```{r import teeth}
+  set.seed(20191010)
   teeth <- read.csv("data/teeth.csv", row.names=1)
   head(teeth)
 ```
