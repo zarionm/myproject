@@ -13,4 +13,4 @@ Welcome to my reasearch website.
 #A list of analyses
 
 * [Teeth growth analysis](teeth.html)
-
+* Take a look at my teammate [Shalise](https://sburch1.github.io/myproject/) for   more analyses!
